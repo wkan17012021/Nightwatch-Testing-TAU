@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="nightwatch.basic.test"
+    errors="0" failures="0" hostname="" id="" package="nightwatch.basic.test" skipped="0"
+    tests="4" time="5.038" timestamp="">
+  
+    <testcase name="Confirming Form Page Title" classname="nightwatch.basic.test" time="2.365" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="grab the body tag and return in json format" classname="nightwatch.basic.test" time="0.9550" assertions="0">
+    </testcase>
+  
+    <testcase name="grab all the input tags with type of text and return in json format" classname="nightwatch.basic.test" time="0.8960" assertions="0">
+    </testcase>
+  
+    <testcase name="Check if video is visible at the bottom of page" classname="nightwatch.basic.test" time="0.8220" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
